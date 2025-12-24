@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🤖 AI Enthusiast & Builder
 
-<!--
-**yongsinfok/yongsinfok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Joshua! I'm a developer with a strong background in the semiconductor industry, currently diving deep into **AI-driven development**.
 
-Here are some ideas to get you started:
+### ⚡ What I'm working on
+I am passionate about leveraging AI coding tools (like Claude Code, Gemini) to push the boundaries of traditional programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 **Building:** Creating various AI-native apps and websites.
+* 🤖 **Automating:** Building automation workflows and AI Agents using **n8n**.
+* 💼 **Day Job:** Semiconductor Automation Solution Specialist (Java/SECS/GEM).
+
+### 🧰 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Java, JavaScript (Learning via AI) |
+| **Automation** | n8n, GitHub Actions |
+| **AI Models** | Gemini 2.5 Pro, Claude 3.5 Sonnet |
+| **Domain** | Semiconductor Equipment Automation |
+
+### 💬 Let's Connect
+I'm interested in side projects, monetization through AI code, and collaboration opportunities.
+
+* [Email me](mailto:fys981210@gmail.com)
